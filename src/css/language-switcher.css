@@ -1,0 +1,33 @@
+/* Language Switcher Button */
+.language-switcher {
+    list-style: none;
+}
+
+#lang-toggle {
+    background: transparent;
+    border: 2px solid var(--color-white);
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 2rem;
+}
+
+#lang-toggle:hover {
+    background: var(--color-purple);
+    transform: scale(1.1);
+    border-color: var(--color-purple);
+}
+
+#lang-flag {
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+#lang-toggle:hover #lang-flag {
+    transform: rotate(360deg);
+}
