@@ -6,21 +6,21 @@
 
 Portfolio professionnel de **Coffi Désiré Gnanguy**, Développeur Full Stack Java/Angular.
 
-## 🌟 À Propos
+## À Propos
 
 Portfolio moderne et responsive présentant mes compétences, projets et expériences en développement Full Stack. Actuellement en Master 2 DLIS à l'Université de Rennes et en alternance chez Orange Business.
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
-- 🎨 **Design moderne** avec animations fluides (AOS)
-- 🌓 **Mode clair/sombre** avec toggle
-- 🌐 **Bilingue** : Français / Anglais
-- 📱 **Responsive** : Compatible mobile, tablette et desktop
-- ⚡ **Performance optimisée** avec animations CSS
-- 🎯 **Navigation fluide** avec smooth scroll
-- 📄 **CV téléchargeable** en PDF
+- **Design moderne** avec animations fluides (AOS)
+- **Mode clair/sombre** avec toggle
+- **Bilingue** : Français / Anglais
+- **Responsive** : Compatible mobile, tablette et desktop
+- **Performance optimisée** avec animations CSS
+- **Navigation fluide** avec smooth scroll
+- **CV téléchargeable** en PDF
 
-## 🛠️ Technologies Utilisées
+## Technologies Utilisées
 
 ### Frontend
 - HTML5
@@ -35,7 +35,7 @@ Portfolio moderne et responsive présentant mes compétences, projets et expéri
 - Git & GitHub
 - GitHub Pages (Hébergement)
 
-## 🚀 Stack Technique Présentée
+## Stack Technique Présentée
 
 Le portfolio met en avant ma maîtrise de :
 
@@ -60,7 +60,7 @@ Le portfolio met en avant ma maîtrise de :
 - CI/CD
 - Postman, Figma, VS Code
 
-## 📂 Structure du Projet
+## Structure du Projet
 
 ```
 mon_portfolio/
@@ -82,24 +82,24 @@ mon_portfolio/
 └── LICENSE                # Licence MIT
 ```
 
-## 🎯 Sections du Portfolio
+## Sections du Portfolio
 
-### 1. **Hero Section**
+### 1. Hero Section
 - Présentation avec animation de texte
 - Titre professionnel
 - Bouton de contact et CV
 
-### 2. **About Me**
+### 2. About Me
 - Biographie professionnelle
 - Photo de profil
 - Parcours et valeurs
 
-### 3. **Skills**
+### 3. Skills
 - Stack technique complète
 - Logos interactifs avec tooltips
 - Catégorisation par domaine
 
-### 4. **Projects**
+### 4. Projects
 Projets réels hébergés :
 - **G3K** - Solutions numériques (Laravel)
 - **Uniteech** - Réparation tech (Laravel)
@@ -107,16 +107,16 @@ Projets réels hébergés :
 - **Devenir Beauty** - E-commerce beauté (Laravel)
 - **Devenir Coworking** - Gestion coworking (Laravel)
 
-### 5. **Footer**
+### 5. Footer
 - Liens sociaux (LinkedIn, GitHub, Email)
 - Devise professionnelle
 - Bouton "Back to Top"
 
-## 🌐 Système Bilingue
+## Système Bilingue
 
 Le portfolio supporte deux langues :
-- 🇫🇷 **Français** (par défaut)
-- 🇬🇧 **Anglais**
+- **Français** (par défaut)
+- **Anglais**
 
 **Utilisation** : Cliquez sur le bouton avec le drapeau dans la navbar pour changer de langue.
 
@@ -126,7 +126,7 @@ Le portfolio supporte deux langues :
 - Titres de sections
 - Footer
 
-## 🎨 Personnalisation
+## Personnalisation
 
 ### Changer le thème
 Le portfolio s'ouvre en **mode clair** par défaut. Pour changer :
@@ -146,14 +146,14 @@ Les couleurs sont définies dans `:root` du fichier `style.css` :
 2. Copier un bloc `project-box-wrapper` dans `index.html`
 3. Modifier le contenu (titre, description, lien, image)
 
-## 📱 Responsive Design
+## Responsive Design
 
 Le portfolio est optimisé pour :
-- 📱 Mobile (< 768px)
-- 📱 Tablette (768px - 1024px)
-- 💻 Desktop (> 1024px)
+- Mobile (< 768px)
+- Tablette (768px - 1024px)
+- esktop (> 1024px)
 
-## 🚀 Déploiement
+## Déploiement
 
 ### GitHub Pages
 1. Push le code sur GitHub
@@ -168,21 +168,21 @@ Le portfolio est statique et peut être hébergé sur :
 - Firebase Hosting
 - Tout serveur web
 
-## 📄 CV
+## CV
 
 Le CV est disponible en téléchargement :
 - Format : PDF
 - Emplacement : `src/pdf/CVFullStack(JAVA_ANGULAR)_CoffiDG_ALTERNANCE.pdf`
 - Accessible via le bouton "CV" dans la section Hero
 
-## 🔗 Liens
+## Liens
 
 - **Portfolio Live** : [https://mrflex-225.github.io](https://mrflex-225.github.io)
 - **LinkedIn** : [Coffi Désiré Gnanguy](https://www.linkedin.com/in/desire-gnanguy/)
 - **GitHub** : [@Mrflex-225](https://github.com/Mrflex-225)
 - **Email** : dgcoffi48@gmail.com
 
-## 📊 Projets Hébergés
+## Projets Hébergés
 
 | Projet | Technologie | Lien |
 |--------|-------------|------|
@@ -192,13 +192,13 @@ Le CV est disponible en téléchargement :
 | Devenir Beauty | Laravel | [devenirbeauty.fr](https://devenirbeauty.fr) |
 | Devenir Coworking | Laravel | [devenircoworking.fr](https://devenircoworking.fr) |
 
-## 🎓 Formation
+## Formation
 
 - **Master 2 DLIS** - Université de Rennes 1 (En cours)
 - **Master 1 MIAGE** - Université de Rennes 1
 - **Licence MIAGE** - Université de Rennes 1
 
-## 💼 Expérience
+## Expérience
 
 **Alternant Développeur Full Stack** - Orange Business  
 *Septembre 2024 - Présent*
@@ -206,27 +206,27 @@ Le CV est disponible en téléchargement :
 - Déploiement avec Kubernetes
 - Gestion de bases de données PostgreSQL
 
-## 📝 License
+## License
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## 🙏 Remerciements
+## Remerciements
 
 - Template original inspiré de designs modernes
 - Icônes : [Devicon](https://devicon.dev/)
 - Animations : [AOS Library](https://michalsnik.github.io/aos/)
 - Fonts : [Google Fonts](https://fonts.google.com/)
 
-## 📧 Contact
+## Contact
 
 Pour toute question ou opportunité professionnelle :
 
-- 📧 Email : dgcoffi48@gmail.com
-- 💼 LinkedIn : [Coffi Désiré Gnanguy](https://www.linkedin.com/in/desire-gnanguy/)
-- 🐙 GitHub : [@Mrflex-225](https://github.com/Mrflex-225)
-- 📱 Téléphone : 07 53 02 87 48
+- Email : dgcoffi48@gmail.com
+- LinkedIn : [Coffi Désiré Gnanguy](https://www.linkedin.com/in/desire-gnanguy/)
+- GitHub : [@Mrflex-225](https://github.com/Mrflex-225)
+- Téléphone : 07 53 02 87 48
 
 ---
 
-**Développé avec ❤️ par Coffi Désiré Gnanguy**  
+**Développé avec passion par Coffi Désiré Gnanguy**  
 *"Constant, engagé, et toujours en quête d'excellence."*
